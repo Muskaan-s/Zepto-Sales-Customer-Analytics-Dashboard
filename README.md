@@ -32,13 +32,18 @@ ________________________________________
 Key Performance Indicators (Kpis)
 
 
+
 •	Total Revenue: ₹874,090
+
 
 •	Total Orders: 10,000
 
+
 •	Average Rating: 3.88/ 5
 
+
 •	Average Delivery Time: 41.60Minutes
+
 
 
 ________________________________________
